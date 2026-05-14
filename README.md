@@ -1,5 +1,7 @@
 # Java-Learning
-Java Code Snippets
+Java Code Snippets - Variables
+
+
 import java.lang.*;
 class variables
 {
